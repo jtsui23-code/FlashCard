@@ -11,7 +11,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Mermory - Next-Gen Flashcard App",
   description: "A modern flashcard application for effective learning",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
