@@ -27,7 +27,7 @@
 Clone the repo and run it locally:
 
 ```bash
-git clone https://github.com/your-username/mermory.git
-cd mermory
+git clone https://github.com/jtsui23-code/FlashCard/tree/main
+cd FlashCard
 npm install
 npm run dev
